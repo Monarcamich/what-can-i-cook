@@ -1,0 +1,17 @@
+[
+  {
+    "recipe_name": "omelette",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ]
+  }
+]
