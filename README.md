@@ -7,8 +7,8 @@ A Python + Streamlit application for managing your pantry and discovering what r
 - **Pantry Management**: Add and track ingredients with quantities, units, and expiration dates
 - **Recipe Management**: Store recipes with their required ingredients
 - **Smart Suggestions**: Get real-time suggestions on what you can cook
-  - ✅ **COOKABLE**: Recipes you can make right now
-  - 🤔 **ALMOST_COOKABLE**: Recipes missing a few ingredients (shows exactly what's needed)
+  -  **COOKABLE**: Recipes you can make right now
+  -  **ALMOST_COOKABLE**: Recipes missing a few ingredients (shows exactly what's needed)
 
 ## Technical Details
 
@@ -71,8 +71,8 @@ The app will open in your default browser at `http://localhost:8501`
 ### Tab 3: Suggestions
 - **Generate suggestions**: Click the button to see what you can cook
 - **Results**: 
-  - ✅ Recipes you have all ingredients for (with sufficient quantities)
-  - 🤔 Recipes missing some ingredients (shows exactly what's needed and how much)
+  -  Recipes you have all ingredients for (with sufficient quantities)
+  -  Recipes missing some ingredients (shows exactly what's needed and how much)
 
 ## Example Workflow
 
